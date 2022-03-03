@@ -3,9 +3,9 @@ package parser
 import (
 	"context"
 	"fmt"
-	"kestoeso/pkg/apis"
-	"kestoeso/pkg/provider"
-	"kestoeso/pkg/utils"
+	"github.com/external-secrets/kes-to-eso/pkg/apis"
+	"pkg/provider"
+	"pkg/utils"
 	"os"
 	"reflect"
 	"testing"

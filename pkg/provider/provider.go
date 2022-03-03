@@ -4,8 +4,8 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"kestoeso/pkg/apis"
-	"kestoeso/pkg/utils"
+	"github.com/external-secrets/kes-to-eso/pkg/apis"
+	"github.com/external-secrets/kes-to-eso/pkg/utils"
 	"strings"
 
 	api "github.com/external-secrets/external-secrets/apis/externalsecrets/v1alpha1"

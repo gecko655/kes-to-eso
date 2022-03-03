@@ -3,9 +3,9 @@ package cmd
 import (
 	"context"
 	"fmt"
-	"kestoeso/pkg/apis"
-	"kestoeso/pkg/parser"
-	"kestoeso/pkg/provider"
+	"github.com/external-secrets/kes-to-eso/pkg/apis"
+	"github.com/external-secrets/kes-to-eso/pkg/parser"
+	"github.com/external-secrets/kes-to-eso/pkg/provider"
 	"os"
 	"path/filepath"
 	"time"

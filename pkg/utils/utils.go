@@ -2,7 +2,7 @@ package utils
 
 import (
 	"fmt"
-	"kestoeso/pkg/apis"
+	"github.com/external-secrets/kes-to-eso/pkg/apis"
 	"os"
 
 	api "github.com/external-secrets/external-secrets/apis/externalsecrets/v1alpha1"

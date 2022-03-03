@@ -3,8 +3,8 @@ package provider
 import (
 	"context"
 	"fmt"
-	"kestoeso/pkg/apis"
-	"kestoeso/pkg/utils"
+	"github.com/external-secrets/kes-to-eso/pkg/apis"
+	"github.com/external-secrets/kes-to-eso/pkg/utils"
 	"reflect"
 	"testing"
 

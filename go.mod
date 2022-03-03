@@ -1,4 +1,4 @@
-module kestoeso
+module github.com/external-secrets/kes-to-eso
 
 go 1.17
 
