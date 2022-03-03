@@ -3,7 +3,7 @@ package parser
 import (
 	"context"
 	"fmt"
-	"github.com/external-secrets/kes-to-eso/pkg/apis"
+	"github.com/gecko655/kes-to-eso/pkg/apis"
 	"pkg/provider"
 	"pkg/utils"
 	"os"

@@ -1,4 +1,4 @@
-module github.com/external-secrets/kes-to-eso
+module github.com/gecko655/kes-to-eso
 
 go 1.17
 

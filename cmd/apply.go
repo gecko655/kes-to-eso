@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"context"
-	"github.com/external-secrets/kes-to-eso/pkg/apply"
+	"github.com/gecko655/kes-to-eso/pkg/apply"
 	"os"
 	"path/filepath"
 	"time"
